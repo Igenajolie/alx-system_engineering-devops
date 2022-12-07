@@ -1,3 +1,2 @@
-#!/bin/bash
-str=' "(Ôo)"' 
-echo $str
+#!/bin/bash 
+echo "\"(Ôo)'"
