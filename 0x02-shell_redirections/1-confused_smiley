@@ -1,0 +1,3 @@
+#!/bin/bash
+str=' "(Ôo)"' 
+echo $str
